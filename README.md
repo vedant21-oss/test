@@ -1,2 +1,3 @@
 # test
-This is y first repo
+This is my first repo
+AUTHOR - Vedant Sachin Malode
